@@ -1,5 +1,5 @@
 <?php
-include '\catalog\controller\startup\error.php';
+include 'catalog\controller\startup\error.php';
 
 class Test extends PHPUnit_Framework_TestCase
 {

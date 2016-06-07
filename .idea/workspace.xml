@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfba730e-7803-4738-ace9-890b5462af25" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.country.admin.1465104623" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.information.1.1465104623" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.information.2.1465104697" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.language.1465104623" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.length_class.1.1465104623" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.length_class.2.1465104697" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.order_status.1.1465104564" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.order_status.2.1465104656" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.return_status.1.1465104623" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.return_status.2.1465104697" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.store.1465105494" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.weight_class.1.1465104623" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.weight_class.2.1465104697" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.zone.222.1465104624" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.zone.62.1465104631" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/logo-100x100.png" afterPath="$PROJECT_DIR$/image/cache/catalog/logo-100x100.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/catalog/logo.png" afterPath="$PROJECT_DIR$/image/catalog/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/controller/account/login.php" afterPath="$PROJECT_DIR$/catalog/controller/account/login.php" />
-    </list>
+    <list default="true" id="bfba730e-7803-4738-ace9-890b5462af25" name="Default" comment="" />
     <ignored path="shop.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -326,12 +303,12 @@
       <updated>1465245552155</updated>
       <workItem from="1465245555894" duration="2897000" />
       <workItem from="1465270603262" duration="2380000" />
-      <workItem from="1465327585873" duration="607000" />
+      <workItem from="1465327585873" duration="1199000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5884000" />
+    <option name="totallyTimeSpent" value="6476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
