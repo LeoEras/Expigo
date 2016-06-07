@@ -5,12 +5,11 @@ class ControllerAccountLogin extends Controller {
 	public function index() {
 		$this->load->model('account/customer');
 
-		// Login override for admin users
-		if (!empty($this->request->get['token'])) {
+		// Login override for admin user
+        if (!empty($this->request->get['token'])) {
 			$this->customer->logout();
 			$this->cart->clear();
-
-			unset($this->session->data['order_id']);
+            unset($this->session->data['order_id']);
 			unset($this->session->data['payment_address']);
 			unset($this->session->data['payment_method']);
 			unset($this->session->data['payment_methods']);
@@ -25,9 +24,9 @@ class ControllerAccountLogin extends Controller {
 
 			$customer_info = $this->model_account_customer->getCustomerByToken($this->request->get['token']);
 
-			if ($customer_info && $this->customer->login($customer_info['email'], '', true)) {
-				// Default Addresses
-				$this->load->model('account/address');
+            if ($customer_info && $this->customer->login($customer_info['email'], '', true)) {
+                // Default Addresses
+                $this->load->model('account/address');
 
 				if ($this->config->get('config_tax_customer') == 'payment') {
 					$this->session->data['payment_address'] = $this->model_account_address->getAddress($this->customer->getAddressId());
