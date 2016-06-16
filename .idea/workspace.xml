@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfba730e-7803-4738-ace9-890b5462af25" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/shop.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="shop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -330,7 +323,7 @@
       <workItem from="1465327585873" duration="1199000" />
       <workItem from="1465789554199" duration="6940000" />
       <workItem from="1465963874756" duration="89000" />
-      <workItem from="1466042555261" duration="2654000" />
+      <workItem from="1466042555261" duration="2772000" />
     </task>
     <task id="LOCAL-00001" summary="Added Gitignore">
       <created>1466042969171</created>
@@ -374,11 +367,18 @@
       <option name="project" value="LOCAL" />
       <updated>1466045101419</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Remove .idea&#10;">
+      <created>1466045344149</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1466045344149</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16159000" />
+    <option name="totallyTimeSpent" value="16277000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -421,7 +421,8 @@
     <MESSAGE value="Deleted .htaccess, config.php e image/no_image.png.&#10;&#10;Updated .gitignore" />
     <MESSAGE value="Remove config files" />
     <MESSAGE value="Remove image/no_image.png file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove image/no_image.png file" />
+    <MESSAGE value="Remove .idea&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove .idea&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
