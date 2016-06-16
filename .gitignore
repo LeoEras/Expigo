@@ -4,7 +4,7 @@
 /admin/config.php
 
 # Image File
-!/image/no_image.jpg
+!/image/no_image.png
 
 # Image Cache Files
 /image/cache/*
