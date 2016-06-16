@@ -2,9 +2,127 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfba730e-7803-4738-ace9-890b5462af25" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.htaccess.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/no_image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/admin/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/cart-100x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/apple_cinema_30-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/apple_cinema_30-200x200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/apple_cinema_30-228x228.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/apple_cinema_30-40x40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/apple_logo-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/banners/MacBookAir-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/banners/MacBookAir-1140x380.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/banners/iPhone6-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/banners/iPhone6-1140x380.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/canon_eos_5d_1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/canon_eos_5d_1-200x200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/canon_eos_5d_1-228x228.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/canon_eos_5d_1-40x40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/canon_eos_5d_2-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/canon_eos_5d_3-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/canon_logo-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/compaq_presario-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/compaq_presario-182x182.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/compaq_presario-80x80.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/gift-voucher-birthday-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/helper-228x228.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/helper-500x500.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/hp_1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/hp_1-228x228.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/hp_1-40x40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/hp_2-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/hp_2-80x80.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/hp_3-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/hp_banner-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/htc_touch_hd_1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/htc_touch_hd_1-228x228.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/htc_touch_hd_1-40x40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/htc_touch_hd_2-500x500.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/htc_touch_hd_2-74x74.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/htc_touch_hd_3-500x500.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/htc_touch_hd_3-74x74.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/imac_1-228x228.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/imac_1-40x40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_1-200x200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_1-228x228.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_1-40x40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_1-47x47.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_1-500x500.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_2-500x500.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_2-74x74.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_3-500x500.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_3-74x74.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_4-500x500.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_4-74x74.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_5-500x500.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_5-74x74.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_6-500x500.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_6-74x74.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/ipod_classic_1-228x228.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/ipod_classic_1-40x40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/ipod_nano_1-40x40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/ipod_shuffle_1-40x40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/ipod_touch_1-40x40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_1-200x200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_1-40x40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_air_1-228x228.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_air_1-40x40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_pro_1-228x228.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_pro_1-40x40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/burgerking-100x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/burgerking-130x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/canon-100x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/canon-130x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/cocacola-100x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/cocacola-130x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/dell-100x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/dell-130x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/disney-100x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/disney-130x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/harley-100x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/harley-130x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/nfl-100x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/nfl-130x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/nintendo-100x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/nintendo-130x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/redbull-100x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/redbull-130x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/shell-100x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/sony-100x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/sony-130x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/starbucks-100x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/starbucks-130x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/nikon_d300_1-40x40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/palm_treo_pro_1-228x228.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/palm_treo_pro_1-40x40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/product/iphone-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/product/macbook-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/product/samsungtab-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/product/thunderboltdisplay-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_syncmaster_941bw-228x228.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_syncmaster_941bw-40x40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_1-228x228.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_1-40x40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_2-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_3-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_4-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_5-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_6-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_7-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/sony_vaio_1-228x228.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/sony_vaio_1-40x40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/logo-100x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/no_image-100x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/no_image-40x40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/placeholder-228x228.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/download/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/logs/error.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/logs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/logs/openbay.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/modification/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/upload/index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -84,21 +202,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -337,7 +445,7 @@
       <workItem from="1465327585873" duration="1199000" />
       <workItem from="1465789554199" duration="6940000" />
       <workItem from="1465963874756" duration="89000" />
-      <workItem from="1466042555261" duration="1091000" />
+      <workItem from="1466042555261" duration="1584000" />
     </task>
     <task id="LOCAL-00001" summary="Added Gitignore">
       <created>1466042969171</created>
@@ -353,24 +461,31 @@
       <option name="project" value="LOCAL" />
       <updated>1466043310617</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Deleted .htaccess, config.php e image/no_image.png.&#10;&#10;Updated .gitignore">
+      <created>1466043735510</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1466043735510</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14596000" />
+    <option name="totallyTimeSpent" value="15089000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25416037" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32852563" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3301282" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3301282" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.362776" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -397,7 +512,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Gitignore" />
     <MESSAGE value="Edited Gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edited Gitignore" />
+    <MESSAGE value="Deleted .htaccess, config.php e image/no_image.png.&#10;&#10;Updated .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted .htaccess, config.php e image/no_image.png.&#10;&#10;Updated .gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -848,8 +964,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
