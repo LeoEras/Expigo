@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfba730e-7803-4738-ace9-890b5462af25" name="Default" comment="" />
+    <list default="true" id="bfba730e-7803-4738-ace9-890b5462af25" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_1-228x228.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.country.admin.1465331698" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.currency.1465334011" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.information.2.1465333770" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.language.1465334805" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.length_class.2.1465333770" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.order_status.2.1465331662" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.return_status.2.1465333770" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.store.1465334805" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.voucher_theme.2.1465331698" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.weight_class.2.1465333770" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.zone.62.1465333770" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/logs/error.log" afterPath="$PROJECT_DIR$/system/storage/logs/error.log" />
+    </list>
     <ignored path="shop.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -22,12 +40,117 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="login.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catalog/controller/account/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-408">
+            <state relative-caret-position="153">
               <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OpenCartTest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/phpunit/vendor/openbaypro/opencart-test-suite/src/OpenCartTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <marker date="1465791290234" expanded="true" signature="2262:2287" ph="DROP TABLE I... " />
+                <marker date="1465791290234" expanded="true" signature="2291:2313" ph="DROP TABLE I... " />
+                <marker date="1465791290234" expanded="true" signature="2446:2462" ph="INSERT INTO " />
+                <marker date="1465791290234" expanded="true" signature="2466:2479" ph="INSERT INTO " />
+                <marker date="1465791290234" expanded="true" signature="2682:2737" ph="DELETE FROM " />
+                <marker date="1465791290234" expanded="true" signature="2758:3092" ph="INSERT INTO `${DB_PREFIX}user`... " />
+                <marker date="1465791290234" expanded="true" signature="3113:3180" ph="DELETE FROM " />
+                <marker date="1465791290234" expanded="true" signature="3200:3335" ph="INSERT INTO `${DB_PREFIX}setting`... " />
+                <marker date="1465791290234" expanded="true" signature="3356:3421" ph="DELETE FROM " />
+                <marker date="1465791290234" expanded="true" signature="3441:3578" ph="INSERT INTO `${DB_PREFIX}setting`... " />
+                <marker date="1465791290234" expanded="true" signature="3599:3671" ph="DELETE FROM " />
+                <marker date="1465791290234" expanded="true" signature="3691:3828" ph="INSERT INTO `${DB_PREFIX}setting`... " />
+                <marker date="1465791290234" expanded="true" signature="4010:4216" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1465791290234" expanded="true" signature="4416:4558" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1465791290234" expanded="true" signature="5662:5722" ph="SELECT * FRO... ${DB_PREFIX}language" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ModificationTest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/phpunit/opencart/admin/controller/extension/ModificationTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CartTest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/phpunit/opencart/catalog/controller/checkout/CartTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitattributes">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="install.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/setup/install.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <marker date="1465794024248" expanded="true" signature="912:994" ph="SELECT * FRO... ${DB_PREFIX}setting" />
+                <marker date="1465794024248" expanded="true" signature="2360:2512" ph="DELETE FROM " />
+                <marker date="1465794024248" expanded="true" signature="2597:2738" ph="INSERT INTO ${DB_PREFIX}extension... " />
+                <marker date="1465794024248" expanded="true" signature="3017:3139" ph="DELETE FROM " />
+                <marker date="1465794024248" expanded="true" signature="3225:3347" ph="DELETE FROM " />
+                <marker date="1465794024248" expanded="true" signature="3482:3675" ph="INSERT INTO ${DB_PREFIX}setting... " />
+                <marker date="1465794024248" expanded="true" signature="3707:3931" ph="INSERT INTO ${DB_PREFIX}setting... " />
+                <marker date="1465794024248" expanded="true" signature="4055:4153" ph="SELECT * FRO... ${DB_PREFIX}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,6 +166,10 @@
         <option value="$PROJECT_DIR$/catalog/controller/account/account.php" />
         <option value="$PROJECT_DIR$/system/engine/controller.php" />
         <option value="$PROJECT_DIR$/catalog/controller/account/login.php" />
+        <option value="$PROJECT_DIR$/tests/setup/config.php" />
+        <option value="$PROJECT_DIR$/tests/setup/install.php" />
+        <option value="$PROJECT_DIR$/.gitattributes" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -60,7 +187,7 @@
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="height" value="754" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -128,92 +255,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="system" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="system" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="engine" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="account" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -224,11 +265,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.php.tools.quality.phpcs.PhpCSConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="PHP Script.login.php">
-    <configuration default="false" name="address.php (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/shop/catalog/controller/account/address.php">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="PHPUnit.CatalogModelCheckoutOrderTest">
     <configuration default="false" name="edit.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/catalog/controller/account/edit.php">
       <method />
     </configuration>
@@ -239,6 +278,10 @@
       <method />
     </configuration>
     <configuration default="false" name="login.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/catalog/controller/account/login.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="CatalogModelCheckoutOrderTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="CatalogModelCheckoutOrderTest" file="$PROJECT_DIR$/tests/phpunit/opencart/catalog/model/checkout/OrderTest.php" scope="Class" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -272,19 +315,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.address.php (1)" />
-      <item index="1" class="java.lang.String" itemvalue="PHP Script.edit.php" />
-      <item index="2" class="java.lang.String" itemvalue="PHP Script.account.php" />
-      <item index="3" class="java.lang.String" itemvalue="PHP Script.controller.php" />
-      <item index="4" class="java.lang.String" itemvalue="PHP Script.login.php" />
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.edit.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.account.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.controller.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.login.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHPUnit.CatalogModelCheckoutOrderTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="PHP Script.login.php" />
-        <item index="1" class="java.lang.String" itemvalue="PHP Script.account.php" />
-        <item index="2" class="java.lang.String" itemvalue="PHP Script.controller.php" />
-        <item index="3" class="java.lang.String" itemvalue="PHP Script.edit.php" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.address.php (1)" />
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.CatalogModelCheckoutOrderTest" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.login.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.account.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.controller.php" />
+        <item index="4" class="java.lang.String" itemvalue="PHP Script.edit.php" />
       </list>
     </recent_temporary>
   </component>
@@ -304,34 +347,37 @@
       <workItem from="1465245555894" duration="2897000" />
       <workItem from="1465270603262" duration="2380000" />
       <workItem from="1465327585873" duration="1199000" />
+      <workItem from="1465789554199" duration="6940000" />
+      <workItem from="1465963874756" duration="89000" />
+      <workItem from="1466042555261" duration="364000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6476000" />
+    <option name="totallyTimeSpent" value="13869000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25416037" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.362776" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39965397" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3488" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.362776" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -350,6 +396,168 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/catalog/controller/account/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/phpunit/vendor/openbaypro/opencart-test-suite/src/OpenCartTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <marker date="1465791290234" expanded="true" signature="2262:2287" ph="DROP TABLE I... " />
+            <marker date="1465791290234" expanded="true" signature="2291:2313" ph="DROP TABLE I... " />
+            <marker date="1465791290234" expanded="true" signature="2446:2462" ph="INSERT INTO " />
+            <marker date="1465791290234" expanded="true" signature="2466:2479" ph="INSERT INTO " />
+            <marker date="1465791290234" expanded="true" signature="2682:2737" ph="DELETE FROM " />
+            <marker date="1465791290234" expanded="true" signature="2758:3092" ph="INSERT INTO `${DB_PREFIX}user`... " />
+            <marker date="1465791290234" expanded="true" signature="3113:3180" ph="DELETE FROM " />
+            <marker date="1465791290234" expanded="true" signature="3200:3335" ph="INSERT INTO `${DB_PREFIX}setting`... " />
+            <marker date="1465791290234" expanded="true" signature="3356:3421" ph="DELETE FROM " />
+            <marker date="1465791290234" expanded="true" signature="3441:3578" ph="INSERT INTO `${DB_PREFIX}setting`... " />
+            <marker date="1465791290234" expanded="true" signature="3599:3671" ph="DELETE FROM " />
+            <marker date="1465791290234" expanded="true" signature="3691:3828" ph="INSERT INTO `${DB_PREFIX}setting`... " />
+            <marker date="1465791290234" expanded="true" signature="4010:4216" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1465791290234" expanded="true" signature="4416:4558" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1465791290234" expanded="true" signature="5662:5722" ph="SELECT * FRO... ${DB_PREFIX}language" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/phpunit/opencart/admin/controller/extension/ModificationTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/phpunit/opencart/catalog/controller/checkout/CartTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/setup/install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1465794024248" expanded="true" signature="912:994" ph="SELECT * FRO... ${DB_PREFIX}setting" />
+            <marker date="1465794024248" expanded="true" signature="2360:2512" ph="DELETE FROM " />
+            <marker date="1465794024248" expanded="true" signature="2597:2738" ph="INSERT INTO ${DB_PREFIX}extension... " />
+            <marker date="1465794024248" expanded="true" signature="3017:3139" ph="DELETE FROM " />
+            <marker date="1465794024248" expanded="true" signature="3225:3347" ph="DELETE FROM " />
+            <marker date="1465794024248" expanded="true" signature="3482:3675" ph="INSERT INTO ${DB_PREFIX}setting... " />
+            <marker date="1465794024248" expanded="true" signature="3707:3931" ph="INSERT INTO ${DB_PREFIX}setting... " />
+            <marker date="1465794024248" expanded="true" signature="4055:4153" ph="SELECT * FRO... ${DB_PREFIX}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/account/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/phpunit/vendor/openbaypro/opencart-test-suite/src/OpenCartTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <marker date="1465791290234" expanded="true" signature="2262:2287" ph="DROP TABLE I... " />
+            <marker date="1465791290234" expanded="true" signature="2291:2313" ph="DROP TABLE I... " />
+            <marker date="1465791290234" expanded="true" signature="2446:2462" ph="INSERT INTO " />
+            <marker date="1465791290234" expanded="true" signature="2466:2479" ph="INSERT INTO " />
+            <marker date="1465791290234" expanded="true" signature="2682:2737" ph="DELETE FROM " />
+            <marker date="1465791290234" expanded="true" signature="2758:3092" ph="INSERT INTO `${DB_PREFIX}user`... " />
+            <marker date="1465791290234" expanded="true" signature="3113:3180" ph="DELETE FROM " />
+            <marker date="1465791290234" expanded="true" signature="3200:3335" ph="INSERT INTO `${DB_PREFIX}setting`... " />
+            <marker date="1465791290234" expanded="true" signature="3356:3421" ph="DELETE FROM " />
+            <marker date="1465791290234" expanded="true" signature="3441:3578" ph="INSERT INTO `${DB_PREFIX}setting`... " />
+            <marker date="1465791290234" expanded="true" signature="3599:3671" ph="DELETE FROM " />
+            <marker date="1465791290234" expanded="true" signature="3691:3828" ph="INSERT INTO `${DB_PREFIX}setting`... " />
+            <marker date="1465791290234" expanded="true" signature="4010:4216" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1465791290234" expanded="true" signature="4416:4558" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1465791290234" expanded="true" signature="5662:5722" ph="SELECT * FRO... ${DB_PREFIX}language" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/phpunit/opencart/admin/controller/extension/ModificationTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/phpunit/opencart/catalog/controller/checkout/CartTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/setup/install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1465794024248" expanded="true" signature="912:994" ph="SELECT * FRO... ${DB_PREFIX}setting" />
+            <marker date="1465794024248" expanded="true" signature="2360:2512" ph="DELETE FROM " />
+            <marker date="1465794024248" expanded="true" signature="2597:2738" ph="INSERT INTO ${DB_PREFIX}extension... " />
+            <marker date="1465794024248" expanded="true" signature="3017:3139" ph="DELETE FROM " />
+            <marker date="1465794024248" expanded="true" signature="3225:3347" ph="DELETE FROM " />
+            <marker date="1465794024248" expanded="true" signature="3482:3675" ph="INSERT INTO ${DB_PREFIX}setting... " />
+            <marker date="1465794024248" expanded="true" signature="3707:3931" ph="INSERT INTO ${DB_PREFIX}setting... " />
+            <marker date="1465794024248" expanded="true" signature="4055:4153" ph="SELECT * FRO... ${DB_PREFIX}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/catalog/controller/account/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -404,13 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-612">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
         </state>
       </provider>
     </entry>
@@ -491,10 +692,156 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tests/phpunit/bootstrap-dist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/basic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="144" column="9" selection-start-line="144" selection-start-column="9" selection-end-line="144" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/phpunit/vendor/openbaypro/opencart-test-suite/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="128" column="6" selection-start-line="128" selection-start-column="6" selection-end-line="128" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/phpunit/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/catalog/controller/account/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408">
+        <state relative-caret-position="153">
           <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/setup/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/setup/install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1465794024248" expanded="true" signature="912:994" ph="SELECT * FRO... ${DB_PREFIX}setting" />
+            <marker date="1465794024248" expanded="true" signature="2360:2512" ph="DELETE FROM " />
+            <marker date="1465794024248" expanded="true" signature="2597:2738" ph="INSERT INTO ${DB_PREFIX}extension... " />
+            <marker date="1465794024248" expanded="true" signature="3017:3139" ph="DELETE FROM " />
+            <marker date="1465794024248" expanded="true" signature="3225:3347" ph="DELETE FROM " />
+            <marker date="1465794024248" expanded="true" signature="3482:3675" ph="INSERT INTO ${DB_PREFIX}setting... " />
+            <marker date="1465794024248" expanded="true" signature="3707:3931" ph="INSERT INTO ${DB_PREFIX}setting... " />
+            <marker date="1465794024248" expanded="true" signature="4055:4153" ph="SELECT * FRO... ${DB_PREFIX}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/phpunit/vendor/openbaypro/opencart-test-suite/src/OpenCartTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <marker date="1465791290234" expanded="true" signature="2262:2287" ph="DROP TABLE I... " />
+            <marker date="1465791290234" expanded="true" signature="2291:2313" ph="DROP TABLE I... " />
+            <marker date="1465791290234" expanded="true" signature="2446:2462" ph="INSERT INTO " />
+            <marker date="1465791290234" expanded="true" signature="2466:2479" ph="INSERT INTO " />
+            <marker date="1465791290234" expanded="true" signature="2682:2737" ph="DELETE FROM " />
+            <marker date="1465791290234" expanded="true" signature="2758:3092" ph="INSERT INTO `${DB_PREFIX}user`... " />
+            <marker date="1465791290234" expanded="true" signature="3113:3180" ph="DELETE FROM " />
+            <marker date="1465791290234" expanded="true" signature="3200:3335" ph="INSERT INTO `${DB_PREFIX}setting`... " />
+            <marker date="1465791290234" expanded="true" signature="3356:3421" ph="DELETE FROM " />
+            <marker date="1465791290234" expanded="true" signature="3441:3578" ph="INSERT INTO `${DB_PREFIX}setting`... " />
+            <marker date="1465791290234" expanded="true" signature="3599:3671" ph="DELETE FROM " />
+            <marker date="1465791290234" expanded="true" signature="3691:3828" ph="INSERT INTO `${DB_PREFIX}setting`... " />
+            <marker date="1465791290234" expanded="true" signature="4010:4216" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1465791290234" expanded="true" signature="4416:4558" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1465791290234" expanded="true" signature="5662:5722" ph="SELECT * FRO... ${DB_PREFIX}language" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/phpcs/OpenCart/ruleset.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/phpmd/phpmd.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/phpunit/opencart/admin/controller/extension/ModificationTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/phpunit/opencart/catalog/controller/checkout/CartTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

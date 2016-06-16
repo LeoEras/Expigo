@@ -23,3 +23,4 @@
 2016-06-07 22:13:32 - PHP Notice:  Undefined variable: text_search in C:\xampp\htdocs\shop\catalog\view\theme\coffee\template\common\header.tpl on line 110
 2016-06-07 22:13:32 - PHP Notice:  Undefined variable: error in C:\xampp\htdocs\shop\catalog\view\theme\coffee\template\common\header.tpl on line 116
 2016-06-07 22:13:32 - PHP Notice:  Undefined variable: heading_title in C:\xampp\htdocs\shop\catalog\view\theme\coffee\template\common\home.tpl on line 16
+2016-06-13 22:38:39 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\shop\system\library\mail.php on line 158
