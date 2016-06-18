@@ -1,13 +1,34 @@
 # Config and Htaccess File
 /.htaccess
+/config.php
 /admin/config.php
 
 # Image File
 !/image/no_image.png
 
+# Image Cache Files
+/image/cache/*
+!/image/cache/index.html
+
+# System Cache Files
+/system/storage/cache/*
+!/system/storage/cache/index.html
+
+# Modification Files
+/system/storage/modification/*
+!/system/storage/modification/index.html
+
 # Templates Files
 /image/templates/*
 /image/templates/default.jpg
+
+# Download Files
+/system/storage/download/*
+!/system/storage/download/index.html
+
+# Upload Files
+/system/storage/*
+!/system/storage/index.html
 
 # Flags
 # remove sharp char if you want to add flags to gitignore
