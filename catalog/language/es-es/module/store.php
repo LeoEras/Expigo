@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Escoge Una Tienda';
+$_['heading_title'] = 'Escoja Una Tienda';
 
 // Text
 $_['text_default']  = 'Por Defecto';

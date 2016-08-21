@@ -1,3 +1,3 @@
 <?php
 // Text
-$_['text_search'] = 'Busca, en la web !';
+$_['text_search'] = 'Buscar';

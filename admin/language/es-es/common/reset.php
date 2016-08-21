@@ -3,9 +3,8 @@
 $_['heading_title']  = 'Restablecer su contrase&ntilde;a';
 
 // Text
-$_['text_reset']     = 'Restablecer su contrase&ntilde;a!';
 $_['text_password']  = 'Introduce la nueva contrase&ntilde;a.';
-$_['text_success']   = 'Genial: Su contrase&ntilde;a ha sido guardada.';
+$_['text_success']   = '&Eacute;xito: Su contrase&ntilde;a ha sido actualizada.';
 
 // Entry
 $_['entry_password'] = 'Contrase&ntilde;a';

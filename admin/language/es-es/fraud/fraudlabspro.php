@@ -3,14 +3,14 @@
 $_['heading_title']                           = 'FraudLabs Pro';
 
 // Text
-$_['text_fraud']                              = 'Anti-Fraud';
-$_['text_success']                            = 'Success: You have modified FraudLabs Pro!';
-$_['text_edit']                               = 'Settings';
-$_['text_signup']                             = 'FraudLabsPro is a fraud detection service. If you don\'t have a API key you can <a href="http://www.fraudlabspro.com/plan?ref=1730" target="_blank"><u>sign up here</u></a>.';
+$_['text_fraud']                              = 'Anti-Fraude';
+$_['text_success']                            = '&Eacute;xito: Ha modificado FraudLabs Pro!';
+$_['text_edit']                               = 'Ajustes';
+$_['text_signup']                             = 'FraudLabsPro es un servicio de detecci&oacute;n de fraude. Si no tiene una clave API la <a href="http://www.fraudlabspro.com/plan?ref=1730" target="_blank"><u>puede obtener aqu&iacute;</u></a>.';
 $_['text_id']                                 = 'FraudLabs Pro ID';
-$_['text_ip_address']                         = 'IP Address';
-$_['text_ip_net_speed']                       = 'IP Net Speed';
-$_['text_ip_isp_name']                        = 'IP ISP Name';
+$_['text_ip_address']                         = 'Direcci&oacute;n IP';
+$_['text_ip_net_speed']                       = 'Velocidad de Red de IP';
+$_['text_ip_isp_name']                        = 'Nombre de ISP de IP';
 $_['text_ip_usage_type']                      = 'IP Usage Type';
 $_['text_ip_domain']                          = 'IP Domain';
 $_['text_ip_time_zone']                       = 'IP Time Zone';

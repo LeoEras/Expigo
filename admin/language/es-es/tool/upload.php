@@ -3,19 +3,19 @@
 $_['heading_title']     = 'Archivos Subidos';
 
 // Text
-$_['text_success'] = 'Genial: Ha modificado los archivos subidos!';
-$_['text_list'] = 'Cargar lista';
+$_['text_success'] 		= '&Eacute;xito: Ha modificado los archivos subidos!';
+$_['text_list'] 		= 'Lista de Archivos Subidos';
 
 // Columna
-$_['column_name'] = 'Subir Nombre';
-$_['column_filename'] = 'Nombre del archivo';
-$_['column_date_added'] = 'Fecha Alta';
-$_['column_action'] = 'Acci&oacute;n';
+$_['column_name'] 		= 'Nombre de Subida';
+$_['column_filename'] 	= 'Nombre del Archivo';
+$_['column_date_added'] = 'Fecha Agregado';
+$_['column_action'] 	= 'Acci&oacute;n';
 
 // Entrada
-$_['nombre_entrada'] = 'Subir Nombre';
-$_['entry_filename'] = 'Nombre del archivo';
-$_['entry_date_added'] = 'Fecha Alta';
+$_['nombre_entrada'] 	= 'Nombre de Subida';
+$_['entry_filename'] 	= 'Nombre del Archivo';
+$_['entry_date_added'] 	= 'Fecha Agregado';
 
 // Error
 $_['error_permission'] = 'Advertencia: Usted no tiene permiso para modificar los archivos subidos!';

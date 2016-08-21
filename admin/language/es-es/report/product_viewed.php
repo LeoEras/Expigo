@@ -4,7 +4,7 @@ $_['heading_title']    = 'Informe de Productos Visualizados';
 
 // Text
 $_['text_list']        = 'Lista de Productos Visualizados';
-$_['text_success']     = 'Genial: Ha reseteado el informe de productos visualizados!';
+$_['text_success']     = '&Eacute;xito: Ha reseteado el informe de productos visualizados!';
 
 // Column
 $_['column_name']      = 'Nombre del Producto';

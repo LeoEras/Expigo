@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Banners';
 
 // Text
-$_['text_success']       = 'Genial: Ha modificado banners!';
+$_['text_success']       = '&Eacute;xito: Ha modificado banners!';
 $_['text_list']          = 'Lista de Banners';
 $_['text_add']           = 'A&ntilde;adir Banner';
 $_['text_edit']          = 'Editar Banner';

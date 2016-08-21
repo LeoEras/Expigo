@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title']        = 'Lista de Direcciones';
+$_['heading_title']        = 'Libreta de Direcciones';
 
 // Text
 $_['text_account']         = 'Cuenta';
-$_['text_address_book']    = 'Lista de Direcciones';
-$_['text_edit_address']    = 'Modificar Direcciones';
+$_['text_address_book']    = 'Entradas de la libreta de Direcciones';
+$_['text_edit_address']    = 'Editar Direcciones';
 $_['text_add']             = 'Su direcci&oacute;n se ha introducido con &eacute;xito';
-$_['text_edit']            = 'Su direcci&oacute;n ha sido actualizado con &eacute;xito';
+$_['text_edit']            = 'Su direcci&oacute;n se ha actualizado con &eacute;xito';
 $_['text_delete']          = 'Su direcci&oacute;n se ha eliminado correctamente';
 $_['text_empty']           = 'No tiene direcciones en su cuenta.';
 
@@ -28,10 +28,10 @@ $_['error_delete']         = 'Advertencia: Debe tener al menos una direcci&oacut
 $_['error_default']        = 'Advertencia: No se puede eliminar su direcci&oacute;n por defecto!';
 $_['error_firstname']      = 'El nombre debe tener entre 1 y 32 caracteres!';
 $_['error_lastname']       = 'Apellido debe tener entre 1 y 32 caracteres!';
-$_['error_vat']            = 'N&uacute;mero de IVA no es válido!';
+$_['error_vat']            = 'N&uacute;mero de IVA es inv&aacute;lido!';
 $_['error_address_1']      = 'Direcci&oacute;n debe estar entre 3 y 128 caracteres!';
 $_['error_postcode']       = 'C&oacute;digo Postal debe tener entre 2 y 10 caracteres!';
 $_['error_city']           = 'Ciudad debe tener entre 2 y 128 caracteres!';
-$_['error_country']        = 'Por favor, seleccione un pa&iacute;s!';
-$_['error_zone']           = 'Por favor, seleccione una regi&oacute;n / estado!';
-$_['error_custom_field']   = '%s se requiere!';
+$_['error_country']        = 'Por favor, selecciona un pa&iacute;s!';
+$_['error_zone']           = 'Por favor, selecciona una regi&oacute;n / estado!';
+$_['error_custom_field']   = '%s inv&aacute;lido!';

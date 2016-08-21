@@ -3,15 +3,15 @@
 $_['heading_title']  = 'Contacto';
 
 // Text
-$_['text_location']  = 'Donde Estamos';
+$_['text_location']  = 'Nuestra Ubicaci&oacute;n';
 $_['text_store']     = 'Nuetras Tiendas';
 $_['text_contact']   = 'Formulario de Contacto';
 $_['text_address']   = 'Direcci&oacute;n';
 $_['text_telephone'] = 'Tel&eacute;fono';
 $_['text_fax']       = 'Fax';
-$_['text_open']      = 'Horario';
+$_['text_open']      = 'Horario de atenci&oacute;n';
 $_['text_comment']   = 'Comentario';
-$_['text_success']   = '<p>Su consulta ha sido enviada con &eacute;xito a la due&ntilde;o de la tienda!</p>';
+$_['text_success']   = '<p>Su consulta ha sido enviada con &eacute;xito al due&ntilde;o de la tienda!</p>';
 
 // Entry
 $_['entry_name']     = 'Su Nombre';

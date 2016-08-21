@@ -1,4 +1,6 @@
 <?php
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
 // Version
 define('VERSION', '2.2.0.0');
 
@@ -10,13 +12,20 @@ if (is_file('config.php')) {
 // Install
 if (!defined('DIR_APPLICATION')) {
 	header('Location: install/index.php');
+	//echo 1;
 	exit;
 }
 
-// Startup
-require_once(DIR_SYSTEM . 'startup.php');
+// VirtualQMOD
+require_once('./vqmod/vqmod.php');
+VQMod::bootup();
+
+// VQMODDED Startup
+require_once(VQMod::modCheck(DIR_SYSTEM . 'startup.php'));
 
 $application_config = 'catalog';
 
 // Application
-require_once(DIR_SYSTEM . 'framework.php');
+require_once(VQMod::modCheck(DIR_SYSTEM . 'framework.php'));
+
+?>

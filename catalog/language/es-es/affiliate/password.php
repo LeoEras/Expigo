@@ -4,7 +4,7 @@ $_['heading_title']  = 'Cambiar contrase&ntilde;a';
 
 // Text
 $_['text_account']   = 'Cuenta';
-$_['text_password']  = 'Contrase&ntilde;a';
+$_['text_password']  = 'Su Contrase&ntilde;a';
 $_['text_success']   = '&Eacute;xito: Su contrase&ntilde;a se ha actualizado correctamente.';
 
 // Entry

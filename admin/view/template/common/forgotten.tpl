@@ -18,7 +18,7 @@
               <div class="form-group">
                 <label for="input-email"><?php echo $entry_email; ?></label>
                 <div class="input-group"><span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                  <input type="text" name="email" value="<?php echo $email; ?>" placeholder="<?php echo $entry_email; ?>" id="input-email" class="form-control" />
+                  <input type="email" name="email" value="<?php echo $email; ?>" placeholder="<?php echo $entry_email; ?>" id="input-email" class="form-control" />
                 </div>
               </div>
               <div class="text-right">

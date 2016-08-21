@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Informe de Iva';
 
 // Text
-$_['text_list']         = 'Lista de Taxas';
+$_['text_list']         = 'Lista de Impuestos';
 $_['text_year']         = 'A&ntilde;os';
 $_['text_month']        = 'Meses';
 $_['text_week']         = 'Semanas';

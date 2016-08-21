@@ -9,7 +9,7 @@ $_['text_success']   = '&Eacute;xito: Su contrase&ntilde;a se ha actualizado cor
 
 // Entry
 $_['entry_password'] = 'Contrase&ntilde;a';
-$_['entry_confirm']  = 'Confirma Contrase&ntilde;a';
+$_['entry_confirm']  = 'Confirmar Contrase&ntilde;a';
 
 // Error
 $_['error_password'] = 'La contrase&ntilde;a debe tener entre 4 y 20 caracteres!';

@@ -1,0 +1,56 @@
+.main-content{
+background:white !important;
+}
+.breadcrumb{
+background:white;
+}
+ul.megamenu &gt; li &gt; a{
+color:white !important;
+}
+.menuexpigo &gt; li{
+float:right;
+}
+.menulinks{
+color:white !important;
+font-family: 'Poiret One', cursive; 
+font-size:18px !important;
+}
+
+.iconmenu{
+display: block;
+margin: auto;
+text-align: center;
+}
+
+.historiaContenido{
+width: 90%;
+    max-width: 650px;
+    text-align: center;
+    margin: auto;
+}
+.historiaContenido p{
+color: #828282;
+}
+.historiaContenido h2{
+font-family: 'Poiret One', cursive;
+    font-size: 26px;
+    color: #655353;
+}
+
+@media (max-width:1024px){
+.iconmenu {
+display:none;
+}
+}
+
+@media (max-width: 767px){
+.menulinks {
+color:#4B4B4B !important;
+}
+.responsive .megamenu-wrapper .menu-holder,.responsive .standard-body .megamenu-pattern{
+margin-bottom:0px;
+}
+.logo_banner{
+font-size:23px !important;
+}
+}

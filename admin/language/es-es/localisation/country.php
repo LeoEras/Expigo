@@ -23,14 +23,14 @@ $_['entry_postcode_required'] = 'C&oacute;digo Requerido';
 $_['entry_status']            = 'Estado';
 
 // Help
-$_['help_address_format']     = 'Nombre = {firstname}<br />Apellidos = {lastname}<br />Compa&ntilde;&iacute;a = {company}<br />Direcci&oacute;n 1 = {address_1}<br />Direcci&oacute;n 2 = {address_2}<br />Ciudad = {city}<br />C&oacute;digo Postal = {postcode}<br />Provincia = {zone}<br />C&oacute;digo Provincia = {zone_code}<br />pa&iacute;s = {country}';
+$_['help_address_format']     = 'Nombre = {firstname}<br/>Apellidos = {lastname}<br/>Compa&ntilde;&iacute;a = {company}<br/>Direcci&oacute;n 1 = {address_1}<br />Direcci&oacute;n 2 = {address_2}<br/>Ciudad = {city}<br/>C&oacute;digo Postal = {postcode}<br/>Provincia = {zone}<br/>C&oacute;digo Provincia = {zone_code}<br/>pa&iacute;s = {country}';
 
 // Error
 $_['error_permission']        = 'Atenci&oacute;n: Usted no tiene permisos para modificar el pa&iacute;s!';
 $_['error_name']              = 'El nombre del pa&iacute; debe contener entre 3 y 128 caracteres!';
 $_['error_default']           = 'Atenci&oacute;n: Este pa&iacute;s no se puede eliminar, est& asignado a la moneda por defecto de la tienda!';
 $_['error_store']             = 'Antenci&oacute;n: Este pa&iacute;s por que esta asignado a %s tiendas!';
-$_['error_address'] = 'Advertencia: Este pa&iacute;s no puede ser eliminado, ya que est&aacute; actualmente asignado a las entradas de la libreta de direcciones% s';
-$_['error_affiliate'] = 'Advertencia: Este pa&iacute;s no puede ser eliminado, ya que se asigna actualmente a los afiliados% s';
-$_['error_zone'] = 'Advertencia: Este pa&iacute;s no puede ser eliminado, ya que est&aacute; actualmente asignado a las zonas de% s';
-$_['error_zone_to_geo_zone'] = 'Advertencia: Este pa&iacute;s no puede ser eliminado, ya que est&aacute; actualmente asignado a las zonas de% s para geo zonas';
+$_['error_address'] 		  = 'Advertencia: Este pa&iacute;s no puede ser eliminado, ya que est&aacute; actualmente asignado a las entradas de la libreta de direcciones %s';
+$_['error_affiliate'] 		  = 'Advertencia: Este pa&iacute;s no puede ser eliminado, ya que se asigna actualmente a los afiliados %s';
+$_['error_zone'] 			  = 'Advertencia: Este pa&iacute;s no puede ser eliminado, ya que est&aacute; actualmente asignado a las zonas de %s';
+$_['error_zone_to_geo_zone']  = 'Advertencia: Este pa&iacute;s no puede ser eliminado, ya que est&aacute; actualmente asignado a las zonas de %s para geo zonas';

@@ -10,5 +10,5 @@ $_['column_points']      = 'Puntos';
 // Text
 $_['text_account']       = 'Cuenta';
 $_['text_reward']        = 'Puntos de recompensa';
-$_['text_total']         = 'N&uacute;mero total de puntos es:';
-$_['text_empty']         = 'Tu no tienes ning&uacute;n punto!';
+$_['text_total']         = 'Tu N&uacute;mero total de puntos es:';
+$_['text_empty']         = 'No tiene ning&uacute;n punto!';

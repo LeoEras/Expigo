@@ -3,7 +3,7 @@
 $_['heading_title']         = 'Campos Personalizados';
 
 // Text
-$_['text_success']          = 'Genial: Ha modificado los campos personalizados!';
+$_['text_success']          = '&Eacute;xito: Ha modificado los campos personalizados!';
 $_['text_list']             = 'Lista de Campos Personalizados';
 $_['text_add']              = 'A&ntilde;adir Campos Personalizados';
 $_['text_edit']             = 'Editar Campos Personalizados';
@@ -13,7 +13,7 @@ $_['text_radio']            = 'Radio';
 $_['text_checkbox']         = 'Checkbox';
 $_['text_input']            = 'Input';
 $_['text_text']             = 'Texto';
-$_['text_textarea']         = 'Area de Texto';
+$_['text_textarea']         = '&Aacute;rea de Texto';
 $_['text_file']             = 'Archivo';
 $_['text_date']             = 'Fecha';
 $_['text_datetime']         = 'Fecha &amp; Hora';
@@ -37,13 +37,13 @@ $_['entry_custom_value']    = 'Valor de los Campos Personalizados';
 $_['entry_customer_group']  = 'Grupo de Clientes';
 $_['entry_required']        = 'Requerido';
 $_['entry_status']          = 'Estado';
-$_['entry_sort_order']      = 'Ordenar Por';
+$_['entry_sort_order']      = 'Ordenar';
 
 // Help
-$_['help_sort_order'] = 'Usar menos para contar hacia atrás desde el último campo en el conjunto.';
+$_['help_sort_order'] 		= 'Usar menos para contar hacia atrás desde el último campo en el conjunto.';
 
 // Error
-$_['error_permission'] = 'Advertencia: Usted no tiene permiso para modificar los campos personalizados';
-$_['error_name'] = 'El nombre del Campo Personalizado debe estar entre 1 y 128 caracteres';
-$_['tipo_error'] = 'Advertencia: valores de campos personalizados requeridos!';
-$_['error_custom_value'] = 'Nombre del campo personalizado debe estar entre 1 y 128 caracteres';
+$_['error_permission'] 		= 'Advertencia: Usted no tiene permiso para modificar los campos personalizados';
+$_['error_name'] 			= 'El nombre del Campo Personalizado debe tener entre 1 y 128 caracteres';
+$_['tipo_error'] 			= 'Advertencia: Valores de campos personalizados requeridos!';
+$_['error_custom_value'] 	= 'Nombre del campo personalizado debe tener entre 1 y 128 caracteres';

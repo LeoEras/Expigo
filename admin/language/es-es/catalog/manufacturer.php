@@ -1,34 +1,34 @@
 <?php
 // Heading
-$_['heading_title'] = 'Los fabricantes';
+$_['heading_title']      = 'Fabricantes';
 
 // Text
-$_['text_success'] = 'Genial: Ha modificado los fabricantes!';
-$_['text_list'] = 'Lista Fabricante';
-$_['text_add'] = 'Agregar fabricante';
-$_['text_edit'] = 'Editar fabricante';
-$_['text_default'] = 'Por defecto';
-$_['text_percent'] = 'Porcentaje';
-$_['text_amount'] = 'cantidad fija';
+$_['text_success']       = '&Eacute;xito: Ha modificado los fabricantes!';
+$_['text_list']          = 'Lista de Fabricantes';
+$_['text_add']           = 'Agregar Fabricante';
+$_['text_edit']          = 'Editar Fabricante';
+$_['text_default']       = 'Por Defecto';
+$_['text_percent']       = 'Porcentaje';
+$_['text_amount']        = 'Cantidad Fija';
 
 // Column
-$_['column_name'] = 'Fabricante';
-$_['column_sort_order'] = 'Orden';
-$_['column_action'] = 'Acci&oacute;n';
+$_['column_name']        = 'Nombre de Fabricante';
+$_['column_sort_order']  = 'Orden';
+$_['column_action']      = 'Acci&oacute;n';
 
 // Entry
-$_['entry-name'] = 'Fabricante';
-$_['entry_store'] = 'Tiendas';
-$_['entry_keyword'] = 'SEO palabra clave';
-$_['entry_image'] = 'Imagen';
-$_['entry_sort_order'] = 'Orden';
-$_['entry_type'] = 'Tipo';
+$_['entry_name']         = 'Nombre de Fabricante';
+$_['entry_store']        = 'Tiendas';
+$_['entry_keyword']      = 'SEO URL';
+$_['entry_image']        = 'Imagen';
+$_['entry_sort_order']   = 'Orden';
+$_['entry_type']         = 'Tipo';
 
 // help
-$_['help_keyword'] = 'No utilice espacios, en vez reemplazar los espacios con - y aseg&uacute;rese de que la palabra clave es &uacute;nico en el mundo.';
+$_['help_keyword']       = 'No utilice espacios, en vez de espacios reemplazar con - y aseg&uacute;rese de que el SEO URL es &uacute;nico en el mundo.';
 
 // Error
-$_['error_permission'] = 'Advertencia: Usted no tiene permiso para modificar los fabricantes!';
-$_['error_name'] = '! Nombre del fabricante debe tener entre 2 y 64 caracteres';
-$_['error_keyword'] = 'palabra clave SEO ya en uso!';
-$_['error_product'] = 'Advertencia: Este fabricante no puede ser eliminado, ya que se asigna actualmente a los productos de% s';
+$_['error_permission']   = 'Advertencia: Usted no tiene permiso para modificar los fabricantes!';
+$_['error_name']         = 'Nombre del fabricante debe tener entre 2 y 64 caracteres!';
+$_['error_keyword']      = 'SEO URL ya est&aacute; en uso!';
+$_['error_product']      = 'Advertencia: Este fabricante no puede ser eliminado, ya que se asigna actualmente a %s productos';

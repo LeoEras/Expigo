@@ -99,6 +99,37 @@ class ControllerAccountOrder extends Controller {
 		$this->response->setOutput($this->load->view('account/order_list', $data));
 	}
 
+    public function seteandoLanguage() {
+        $data['heading_title'] = $this->language->get('text_order');
+
+		$data['text_order_detail'] = $this->language->get('text_order_detail');
+		$data['text_invoice_no'] = $this->language->get('text_invoice_no');
+		$data['text_order_id'] = $this->language->get('text_order_id');
+		$data['text_date_added'] = $this->language->get('text_date_added');
+		$data['text_shipping_method'] = $this->language->get('text_shipping_method');
+		$data['text_shipping_address'] = $this->language->get('text_shipping_address');
+		$data['text_payment_method'] = $this->language->get('text_payment_method');
+		$data['text_payment_address'] = $this->language->get('text_payment_address');
+		$data['text_history'] = $this->language->get('text_history');
+		$data['text_comment'] = $this->language->get('text_comment');
+		$data['text_no_results'] = $this->language->get('text_no_results');
+
+		$data['column_name'] = $this->language->get('column_name');
+		$data['column_model'] = $this->language->get('column_model');
+		$data['column_quantity'] = $this->language->get('column_quantity');
+		$data['column_price'] = $this->language->get('column_price');
+		$data['column_total'] = $this->language->get('column_total');
+		$data['column_action'] = $this->language->get('column_action');
+		$data['column_date_added'] = $this->language->get('column_date_added');
+		$data['column_status'] = $this->language->get('column_status');
+		$data['column_comment'] = $this->language->get('column_comment');
+
+		$data['button_reorder'] = $this->language->get('button_reorder');
+		$data['button_return'] = $this->language->get('button_return');
+		$data['button_continue'] = $this->language->get('button_continue');
+
+    }
+
 	public function info() {
 		$this->load->language('account/order');
 
@@ -149,33 +180,7 @@ class ControllerAccountOrder extends Controller {
 				'href' => $this->url->link('account/order/info', 'order_id=' . $this->request->get['order_id'] . $url, true)
 			);
 
-			$data['heading_title'] = $this->language->get('text_order');
-
-			$data['text_order_detail'] = $this->language->get('text_order_detail');
-			$data['text_invoice_no'] = $this->language->get('text_invoice_no');
-			$data['text_order_id'] = $this->language->get('text_order_id');
-			$data['text_date_added'] = $this->language->get('text_date_added');
-			$data['text_shipping_method'] = $this->language->get('text_shipping_method');
-			$data['text_shipping_address'] = $this->language->get('text_shipping_address');
-			$data['text_payment_method'] = $this->language->get('text_payment_method');
-			$data['text_payment_address'] = $this->language->get('text_payment_address');
-			$data['text_history'] = $this->language->get('text_history');
-			$data['text_comment'] = $this->language->get('text_comment');
-			$data['text_no_results'] = $this->language->get('text_no_results');
-
-			$data['column_name'] = $this->language->get('column_name');
-			$data['column_model'] = $this->language->get('column_model');
-			$data['column_quantity'] = $this->language->get('column_quantity');
-			$data['column_price'] = $this->language->get('column_price');
-			$data['column_total'] = $this->language->get('column_total');
-			$data['column_action'] = $this->language->get('column_action');
-			$data['column_date_added'] = $this->language->get('column_date_added');
-			$data['column_status'] = $this->language->get('column_status');
-			$data['column_comment'] = $this->language->get('column_comment');
-
-			$data['button_reorder'] = $this->language->get('button_reorder');
-			$data['button_return'] = $this->language->get('button_return');
-			$data['button_continue'] = $this->language->get('button_continue');
+            seteandoLanguage();
 
 			if (isset($this->session->data['error'])) {
 				$data['error_warning'] = $this->session->data['error'];

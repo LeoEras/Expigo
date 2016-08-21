@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_address']       = '&Eacute;xito: La direcci&oacute;n de env&iacute;o se ha fijado!';
+$_['text_address']       = '&Eacute;xito: La direcci&oacute;n de env&iacute;o se ha establecido!';
 $_['text_method']        = '&Eacute;xito: M&eacute;todo del env&iacute;o se ha establecido!';
 
 // Error

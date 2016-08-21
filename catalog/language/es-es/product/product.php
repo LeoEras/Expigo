@@ -3,8 +3,8 @@
 $_['text_search']                             = 'Buscar';
 $_['text_brand']                              = 'Marca';
 $_['text_manufacturer']                       = 'Marca:';
-$_['text_model']                              = 'Referencia:';
-$_['text_reward']                             = 'Puntos Recompensa:';
+$_['text_model']                              = 'C&oacute;digo de producto:';
+$_['text_reward']                             = 'Puntos de Recompensa:';
 $_['text_points']                             = 'Precio en Puntos de recompensa:';
 $_['text_stock']                              = 'Disponibilidad:';
 $_['text_instock']                            = 'En Stock';
@@ -13,7 +13,7 @@ $_['text_discount']                           = ' o m&aacute;s ';
 $_['text_option']                             = 'Opciones Disponibles';
 $_['text_minimum']                            = 'Este producto tiene una cantidad m&iacute;nima de %s';
 $_['text_reviews']                            = '%s opiniones';
-$_['text_write']                              = 'Escribe opini&oacute;n';
+$_['text_write']                              = 'Escribe una opini&oacute;n';
 $_['text_login']                              = 'Por favor <a href="%s">Inicia Sesi&oacute;n</a> o <a href="%s">registrate</a> para opinar';
 $_['text_no_reviews']                         = 'No hay opiniones para este producto.';
 $_['text_note']                               = '<span class="text-danger">Nota:</span> No se permite HTML!';
@@ -21,21 +21,21 @@ $_['text_success']                            = 'Gracias por su comentario usted
 $_['text_related']                            = 'Productos Relacionados';
 $_['text_tags']                               = 'Etiquetas:';
 $_['text_error']                              = 'Producto no encontrado!';
-$_['text_payment_recurring']                    = 'Perfiles de Pago';
+$_['text_payment_recurring']                  = 'Perfiles de Pago';
 $_['text_trial_description']                  = '%s cada %d %s(s) para %d pago(s) posteriores';
 $_['text_payment_description']                = '%s cada %d %s(s) para %d pago(s)';
 $_['text_payment_until_canceled_description'] = '%s cada %d %s(s) hasta que se cancele';
 $_['text_day']                                = 'd&iacute;a';
 $_['text_week']                               = 'semana';
-$_['text_semi_month']                         = 'medio mes';
+$_['text_semi_month']                         = 'mitad del mes';
 $_['text_month']                              = 'mes';
 $_['text_year']                               = 'a&ntilde;o';
 
 // Entry
 $_['entry_qty']                               = 'Cantidad';
-$_['entry_name']                              = 'Su Nombre';
-$_['entry_review']                            = 'Su Opini&oacute;n';
-$_['entry_rating']                            = 'Clasificaci&oacute;n';
+$_['entry_name']                              = 'Tu Nombre';
+$_['entry_review']                            = 'Tu Opini&oacute;n';
+$_['entry_rating']                            = 'Calificaci&oacute;n';
 $_['entry_good']                              = 'Bueno';
 $_['entry_bad']                               = 'Malo';
 $_['entry_captcha']                           = 'Introduzca el C&oacute;digo de la caja de abajo';

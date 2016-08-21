@@ -8,4 +8,4 @@ $_['text_newsletter']  = 'Bolet&iacute;n';
 $_['text_success']     = '&Eacute;xito: Su suscripci&oacute;n al bolet&iacute;n se ha actualizado con &eacute;xito!';
 
 // Entry
-$_['entry_newsletter'] = 'Subscribir';
+$_['entry_newsletter'] = 'Subscribirse';
