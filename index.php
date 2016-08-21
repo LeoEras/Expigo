@@ -15,7 +15,6 @@ if (!defined('DIR_APPLICATION')) {
 	//echo 1;
 	exit;
 }
-
 // VirtualQMOD
 require_once('./vqmod/vqmod.php');
 VQMod::bootup();
@@ -27,5 +26,4 @@ $application_config = 'catalog';
 
 // Application
 require_once(VQMod::modCheck(DIR_SYSTEM . 'framework.php'));
-
 ?>

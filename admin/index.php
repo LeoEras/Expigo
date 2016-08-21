@@ -14,7 +14,6 @@ if (!defined('DIR_APPLICATION')) {
 	header('Location: ../install/index.php');
 	exit;
 }
-
 //VirtualQMOD
 require_once('../vqmod/vqmod.php');
 VQMod::bootup();
